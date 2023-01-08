@@ -1,22 +1,3 @@
-# Screenshots
-
-![img](img/1.JPG)
-![img](img/2.JPG)
-![img](img/3.JPG)
-![img](img/4.JPG)
-![img](img/5.JPG)
-![img](img/6.JPG)
-![img](img/7.JPG)
-![img](img/8.JPG)
-![img](img/9.JPG)
-![img](img/10.JPG)
-![img](img/11.JPG)
-![img](img/12.JPG)
-![img](img/13.JPG)
-![img](img/14.JPG)
-![img](img/15.JPG)
-![img](img/16.JPG)
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
